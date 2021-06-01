@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "SPOT_ID": 1,
+            "NAME": "Stockfleths Café",
+            "DESCRIPTION": "Her får du kjøpt byens beste og ferskeste skogsbær muffins!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.726121664047241,
+            59.92318303905355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "SPOT_ID": 2,
+            "NAME": "Kjærlighets broen",
+            "DESCRIPTION": "Litt bortgjemt i Frognerparken finner du kjærlighetsbroen. Heng på en lås da vel, eller nyt utsiken over parken!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.700911581516266,
+            59.92486662886232
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "SPOT_ID": 3,
+            "NAME": "My ugly baby",
+            "DESCRIPTION": "I hjertet av Youngstoget finnes de heftigste donuts, de bare må oppleves!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.750650465488434,
+            59.914825658204784
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "SPOT_ID": 4,
+            "NAME": "Tuppen av Tjuvholmen",
+            "DESCRIPTION": "Helt på tuppen av Tjuvholmen finner du det perfekte stedet å nyte solnedgangen, med utsikt så langt øyet kan se og i vakre omgivelser!"
+            
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.71938931941986,
+            59.90613196459632
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "SPOT_ID": 5,
+            "NAME": "Prindsens Hage",
+            "DESCRIPTION": "Gjemt bak høye bygninger og svulmende byliv åpner det opp en stor oase av en bar. Alltid god steming, må besøkes!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.755540132522583,
+            59.91464952088491
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "SPOT_ID": 6,
+            "NAME": "Uranienborg Parken",
+            "DESCRIPTION": "Her kan morgen kaffen nytes i rolige og vakre omgivlser, besøk og nyt!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.721313804388046,
+            59.92181190879266
+          ]
+        }
+      }
+    ]
+  }
